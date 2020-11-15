@@ -1,4 +1,7 @@
 # Node API Server Starter Kit
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f8eaaaa716748279463c3b38e9da6b8)](https://app.codacy.com/gh/felixmutua/api-server-starter?utm_source=github.com&utm_medium=referral&utm_content=felixmutua/api-server-starter&utm_campaign=Badge_Grade)
+
 This starter kit contains everything you'll need to create your very own Node-based API server, using Express JS and configured to serve JSON files for data. 
 
 ## Why an API server that serves JSON files?
